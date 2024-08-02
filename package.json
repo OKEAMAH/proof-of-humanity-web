@@ -60,7 +60,7 @@
     "@reach/checkbox": "^0.11.2",
     "@theme-ui/color": "^0.3.1",
     "@theme-ui/presets": "^0.3.0",
-    "@theme-ui/typography": "^0.3.0",
+    "@theme-ui/typography": "^0.16.2",
     "@walletconnect/web3-provider": "^1.6.2",
     "authereum": "0.0.4-beta.186",
     "base-2048": "^0.0.1",
